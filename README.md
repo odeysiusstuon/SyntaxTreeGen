@@ -1,5 +1,5 @@
 # SyntaxTreeGen
-A simple Flex and Bison-based Linguistics syntax tree generator. Built for Spring 2021 CPTS 483 (Topics in Computer Science: Practical Introduction to Compilers) taught by Aravind Sukumaran Rajam at Washington State University.
+A simple Flex and Bison-based Linguistics syntax tree generator. Final project for Spring 2021 CPTS 483 (Topics in Computer Science: Practical Introduction to Compilers) taught by Aravind Sukumaran Rajam at Washington State University.
 
 ## Demo
 
