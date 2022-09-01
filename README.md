@@ -5,6 +5,10 @@ A simple Flex and Bison-based Linguistics syntax tree generator. Final project f
 
 https://user-images.githubusercontent.com/42856925/179121757-e95b5a5b-6d4e-4ab9-8007-c4a707019041.mp4
 
+The result converted to a [Graphviz visualizer](https://dreampuf.github.io/GraphvizOnline/):
+
+![graphviz](https://user-images.githubusercontent.com/42856925/188018676-a47ac02d-a278-4344-ba6a-a3922189251c.png)
+
 ## Presentation
 
 [Link to presentation](CPTS%20483%20Project%20Presentation.pdf)
